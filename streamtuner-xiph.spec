@@ -1,5 +1,5 @@
 Summary:	Plugin for streamtuner implementing a dir.xiph.org handler
-Summary(pl):	Wtyczka dla streamtunera implementuj±ca obs³ugê dir.xiph.org
+Summary(pl.UTF-8):   Wtyczka dla streamtunera implementujÄ…ca obsÅ‚ugÄ™ dir.xiph.org
 Name:		streamtuner-xiph
 Version:	0.1.0
 Release:	1
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Plugin for streamtuner implementing a dir.xiph.org handler.
 
-%description -l pl
-Wtyczka dla streamtunera implementuj±ca obs³ugê dir.xiph.org.
+%description -l pl.UTF-8
+Wtyczka dla streamtunera implementujÄ…ca obsÅ‚ugÄ™ dir.xiph.org.
 
 %prep
 %setup -q
